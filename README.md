@@ -1,1 +1,1 @@
-# Type the name of color to change the color of box
+ Type the name of color to change the color of box
